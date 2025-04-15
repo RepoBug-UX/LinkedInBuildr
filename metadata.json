@@ -1,9 +1,13 @@
 {
-  "name": "linkedinBuildr",
-  "version": "0.0.3",
-  "description": "",
+  "name": "LinkedInBuildr",
+  "version": "0.0.5",
+  "description": "AI agent that helps CS students build their professional LinkedIn presence through profile optimization, content creation, and strategic networking.",
   "category": "agent",
-  "tags": [],
+  "tags": [
+    "career-development",
+    "linkedin",
+    "technical-writing"
+  ],
   "details": {
     "agent": {
       "defaults": {
