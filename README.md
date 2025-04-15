@@ -2,7 +2,7 @@
 
 A NEARAI agent that helps computer science students build their professional presence on LinkedIn. Focuses on profile optimization, technical content creation, and strategic networking with a strong emphasis on technical achievements and career growth.
 
-🔗 Available on [NEARAI Developer Hub](https://app.near.ai/agents/itbelikethat.near/linkedinBuildr/latest)
+🔗 Available on [NEARAI Developer Hub](https://app.near.ai/agents/itbelikethat.near/LinkedInBuildr/latest)
 
 ## Core Features
 
